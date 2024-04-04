@@ -18,4 +18,7 @@ Ref: https://www.warp.dev/terminus/how-to-create-folder-in-github
 See this page:<br>
 https://docs.github.com/en/communities
 
+## Creating Line breaks
+To create a line break we add this at the end of a line: `<br>`
+
 
