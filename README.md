@@ -21,4 +21,5 @@ https://docs.github.com/en/communities
 ## Creating Line breaks
 To create a line break we add this at the end of a line: `<br>`
 
-
+## Markdown
+Ref: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
