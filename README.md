@@ -32,9 +32,11 @@ To highlight a code snippet we wrap the word or snippet with the `` ` `` backtic
 
 Ref: https://meta.stackexchange.com/questions/82718/how-do-i-escape-a-backtick-within-in-line-code-in-markdown
 
-`` ` `` <br>
+
 Test<br>
 ``` ``two backticks`` ``` <br>
+
+List`1 <br>
 
 ### Code Blocks
 To highlight a block of code we wrap the block with three ````` backtick characters.
