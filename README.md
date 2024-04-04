@@ -13,4 +13,8 @@ Type your new directories name in the area followed by a "/" followed by a file 
 
 https://www.warp.dev/terminus/how-to-create-folder-in-github
 
+## Creating Wikis
+See this page:<br>
+https://docs.github.com/en/communities
+
 
