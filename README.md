@@ -9,7 +9,7 @@ Hopefully this helps explain why it is not obvious how to create empty directori
 
 Since Git only tracks content, a common way for developers to push an (almost) empty directory to an initialized Git repository is to create an empty `.placeholder` file within that directory.
 
-To create a new directory in a repository click “create a new file.
+To create a new directory in a repository click create a new file.
 Type your new directories name in the area followed by a "/" followed by a file named .placeholder
 
 Ref: https://www.warp.dev/terminus/how-to-create-folder-in-github
