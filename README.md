@@ -2,8 +2,8 @@
 This wiki was created to explore how GitHub's Wiki's actually work!
 
 ## Creating Directories
-By default, Git is designed to track the content of only files.
-  If a directory has no files in it, Git presumes there is nothing to be tracked.
+By default, Git is designed to track the content of only files.<br>
+If a directory has no files in it, Git presumes there is nothing to be tracked.<br>
 This means that directories exist in Git only implicitly through their contents.
 
 To create a new directory in a repository click “create a new file.
