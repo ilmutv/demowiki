@@ -28,8 +28,11 @@ Ref: https://docs.github.com/en/get-started/writing-on-github/getting-started-wi
 To quote a line of text we start the line with a single ">" character.
 
 ### Highlight Code Snippets
-To highlight a code snippet we wrap the word or snippet with the ` \` ` backtick character.
-` ` ` 
+To highlight a code snippet we wrap the word or snippet with the ` \` ` backtick character.<br>
+` ` `<br>
+`` ` ``<br>
+<br>
+<br>
 
 ### Highlight Code Blocks
 To highlight a block of code we wrap the block with three ````` backtick characters.
