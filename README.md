@@ -24,5 +24,11 @@ To create a line break we add this at the end of a line: `<br>`
 ## Markdown
 Ref: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-### Quote
-To quote text we start a line with ">"
+### Quote Text
+To quote a line of text we start the line with a single ">" character.
+
+### Highlight Code Snippets
+To highlight a code snippet we wrap the word or snippet with the "`" backtick characters.
+
+### Highlight Code Blocks
+To highlight a block of code we wrap the block with three "```" backtick characters.
